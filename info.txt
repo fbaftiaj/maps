@@ -1,0 +1,20 @@
+//Informatat e kyqjes
+
+
+1. Kyqjsa si superadmin
+
+username = super
+password = 12345
+
+-------------------------------
+2. Kyqjsa si zyrtar
+
+username = admin1
+password = 12345
+
+
+-----------------------
+1. Kyqjsa si kompani
+
+username = admini
+password = 12345
